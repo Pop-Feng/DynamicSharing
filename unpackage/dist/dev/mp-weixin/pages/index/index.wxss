@@ -1,0 +1,104 @@
+
+.topBg.data-v-57280228 {
+
+	text-align: center;
+	padding-bottom: 20rpx;
+	box-sizing: border-box;
+	color: #007AFF;
+	font-weight: bold;
+}
+.topBg image.data-v-57280228 {
+	width: 100%;
+	height: 20vh;
+	margin-bottom: 20rpx;
+}
+.content swiper.data-v-57280228 {
+	width: 100%;
+	text-align: center;
+	height: 75vh;
+}
+.content swiper swiper-item image.data-v-57280228 {
+	width: 100%;
+	height: 100%;
+}
+.top.data-v-57280228 {
+	padding: 0 30rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	height: 8vh
+}
+.topLeft.data-v-57280228 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.topLeft image.data-v-57280228 {
+	margin-right: 20rpx;
+	width: 80rpx;
+	height: 80rpx;
+	border-radius: 50%;
+}
+.topLeft text.data-v-57280228 {
+	font-size: 28rpx;
+}
+.top .topRight.data-v-57280228 {
+	width: 10rpx;
+	height: 65rpx;
+	border-right: #333333 15rpx dotted;
+}
+.bottom.data-v-57280228 {
+	margin: 20rpx 0;
+}
+.bottomTop.data-v-57280228 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	padding: 0 20rpx;
+}
+.bottomTop .bottomTopLeft.data-v-57280228 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	box-sizing: border-box;
+}
+.bottomTop .bottomTopRight.data-v-57280228 {
+	box-sizing: border-box;
+}
+.bottomTop .bottomTopLeft image.data-v-57280228 {
+	margin-right: 20rpx;
+}
+.bottomTop .bottomTopLeft image.data-v-57280228,
+.bottomTop .bottomTopRight image.data-v-57280228 {
+	width: 50rpx;
+	height: 50rpx;
+}
+.bottom .bottomFooter.data-v-57280228 {
+
+	margin-left: 20rpx;
+}
+.bottom .bottomFooter text.data-v-57280228 {
+	display: inline-block;
+	font-weight: 700;
+	font-size: 26rpx;
+}
+.bottom .bottomFooter .remarks text.data-v-57280228:nth-child(1) {
+	color: #007AFF;
+}
+
+

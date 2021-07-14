@@ -1,0 +1,42 @@
+
+.contentTop.data-v-80842834{
+		padding: 40rpx 16rpx;
+		text-align: center;
+		border-bottom: 2rpx solid #C8C7CC;
+}
+.headPortrait image.data-v-80842834{
+	width: 180rpx;
+	height: 180rpx;
+	border-radius: 50%;
+}
+.headMessage.data-v-80842834{
+	margin-top: 10rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content:space-around;
+	        justify-content:space-around;
+}
+.photoList.data-v-80842834 {
+	text-align: center;
+	border-bottom: 2rpx solid #C8C7CC;
+}
+.photoList image.data-v-80842834{
+	width: 100rpx;
+	height: 100rpx;
+}
+.personalNews.data-v-80842834{
+	padding-top: 4rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	/* justify-content: space-around; */
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.personalNews image.data-v-80842834{
+	display: inline-block;
+	width: 33%;
+	height: 280rpx;
+}
+
